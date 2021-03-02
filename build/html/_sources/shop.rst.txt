@@ -1,7 +1,7 @@
-青梅商户平台
+第三方平台/机构
 ====
 
-.. shop_yewu:
+.. shop_scenes:
 
 业务场景
 -----------
@@ -14,5 +14,29 @@
     2、青梅商户平台将接收到的订单信息汇总，并根据订单金额、佣金类别等信息计算出相关返利金额给展示出来；
     
     3、流程图
+
+    .. image:: images/processing.jpg
+
+
+.. shop_process:
+
+对接流程
+-----------
+
+    .. image:: images/processing.jpg
+
+
+.. shop_doc:
+
+对接文档
+-----------
+
+    .. image:: images/processing.jpg
+
+
+.. shop_faq:
+
+常见问题
+-----------
 
     .. image:: images/processing.jpg

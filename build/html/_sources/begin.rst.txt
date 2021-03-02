@@ -1,7 +1,7 @@
-快速开始
+收银台对接
 ====
 
-.. begin_yewu:
+.. begin_scenes:
 
 业务场景
 -----------
@@ -18,10 +18,11 @@
     .. image:: images/processing.jpg
 
 
-.. begin_liucheng:
+.. begin_process:
 
 对接流程
 -----------
+
     1、双方商务与产品沟通后，**确定合作模式**，并建立QQ群/微信群，以方便沟通；
 
     2、 合作商技术按照 :doc:`doc` 进行开发，接口中涉及到的固定参数可与青梅技术沟通；
@@ -40,6 +41,17 @@
         * 测试过程中可能涉及订单审核、付款等操作，请合作商配合完成；
 
 
+.. begin_doc:
+
+对接文档
+-----------
+
+    .. image:: images/processing.jpg
 
 
-如有任何对接疑问，请联系我们 ``xxx@gmail.com`` 。
+.. begin_faq:
+
+常见问题
+-----------
+
+    .. image:: images/processing.jpg
