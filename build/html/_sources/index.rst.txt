@@ -12,8 +12,7 @@
     :maxdepth: 2
 
     begin
-    shop
-    merchant
-    user
+    shop_online
+    shop_offline
     about
     faq
