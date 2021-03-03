@@ -17,7 +17,8 @@
 
     4、流程图
 
-    .. image:: images/processing.jpg
+    .. image:: images/begin_process.png
+        :width: 100%
 
 .. _begin_process:
 
