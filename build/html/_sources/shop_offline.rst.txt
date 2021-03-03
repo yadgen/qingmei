@@ -4,30 +4,39 @@
 .. _shop_offline_scenes:
 
 业务场景
------------
+----
+
+    1、青梅免息平台将会提供给商户一个二维码，展示在商户的收银台前供用户支付时扫码使用；
+
+    2、用户扫码进行支付，新用户需进行信用和额度的授权，支付方式分为两种：
+ ^^^^
+        * 自行输入分期金额和分期数；
+        * 选择由系统计算出来的分期金额和分期数。
+
+    .. note::
+        青梅平台授信快捷登陆，扫码可直接获取用户信息，可实现自动注册或登陆，提高用户体验；
+
+    3、流程图
 
     .. image:: images/processing.jpg
-
 
 .. _shop_offline_process:
 
 对接流程
------------
+----
 
     .. image:: images/processing.jpg
-
 
 .. _shop_offline_doc:
 
 对接文档
------------
+----
 
     .. image:: images/processing.jpg
-
 
 .. _shop_offline_faq:
 
 常见问题
------------
+----
 
     .. image:: images/processing.jpg
