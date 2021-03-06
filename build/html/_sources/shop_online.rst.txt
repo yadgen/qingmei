@@ -14,7 +14,7 @@
 
     4、流程图
 
-    .. image:: images/shop_online.png
+    .. image:: images/shop_online_process.png
         :width: 100%
 
 .. _shop_online_process:

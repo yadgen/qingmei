@@ -18,5 +18,5 @@
 
     3、流程图
 
-    .. image:: images/shop_offline.png
+    .. image:: images/shop_offline_process.png
         :width: 100%
