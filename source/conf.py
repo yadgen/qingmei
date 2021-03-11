@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'青梅免息'
+project = u'小鹅趣花'
 copyright = u'2021, yadgen'
 author = u'yadgen'
 
